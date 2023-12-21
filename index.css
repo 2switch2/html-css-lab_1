@@ -1,8 +1,32 @@
 body {
-    color:red;
-    background-color: aquamarine;
-    border: 2px solid black;
+    color: #000;
+    background-color: rgb(165, 188, 194);
     padding-top: 20px;
     padding: 100px;
-    
+}
+h1 {
+    font-size: 60px;
+    color: black;
+}
+h2 {
+    font-size: 50px;
+    background-color: crimson;
+    color: black;
+}
+h3 {
+    font-size: 50px;
+    background-color: crimson;
+    color: black;
+}
+h4 {
+    font-size: 50px;
+    background-color: crimson;
+    color: black;
+}
+.main {
+    display: flex;
+    justify-content: space-between;
+}
+p {
+    font-size: 20px;
 }
